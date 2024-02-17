@@ -34,7 +34,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="container">
-      <h1 className="text-center">Random Quote</h1>
+      <h1 className="text-center">Random Question Game</h1>
 
         <QuoteAndAuthor
           generateRandomQuote={this.generateRandomQuote}
