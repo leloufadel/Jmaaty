@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import quotes from './QuoteDB';
 import QuoteAndAuthor from './Generate';
+import './App.css'
 
 export default class App extends Component {
 
@@ -33,7 +34,8 @@ export default class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1 className="text-center">Random Quote</h1>
+      <h1 className="text-center">Random Quote</h1>
+
         <QuoteAndAuthor
           generateRandomQuote={this.generateRandomQuote}
           quote={this.state}
