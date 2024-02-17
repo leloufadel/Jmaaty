@@ -19,6 +19,12 @@ body {
   height: 300px;
   perspective: 1000px;
 }
+.imag{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+   border-radius: 50%; 
+}
 
 .flip-card-inner {
   position: relative;
@@ -43,8 +49,8 @@ body {
 }
 
 .flip-card-front {
-  background-color: #bbb;
-  color: black;
+  background-color: #006233;
+  color: white;
 }
 
 .flip-card-back {

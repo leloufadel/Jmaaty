@@ -8,8 +8,8 @@ export default function QuoteAndAuthor(props) {
         <div className="flip-card">
             <div className="flip-card-inner">
                 <div className="flip-card-front">
-                    <img src="img_avatar.png" alt="Avatar" style={{ width: "100px", height: "100px", marginTop: "10px" }} />
-                    <p style={{ width: "300px", height: "300px", marginTop: "60px" }}> Sewel had men eljema3a </p>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOJ57wp02487w1wQ00X8tIPj-hazeKM9Rcw&usqp=CAU" alt="Avatar" className ="imag"/>
+                    <h2> Jmaatna Zeyna </h2>
                 </div>
                     <div className="flip-card-back">
                         <p className="card-text">{quote.quote}</p>
