@@ -1,30 +1,83 @@
 const quotes = [
     {
-        "quote": "Forget all the reasons why it won't work and believe the one reason why it will",
+        "quote": "شنهي الأشياء لي تفگعك؟",
         "author": "Unknown"
     },
     {
-        "quote": "Always do what you are afraid to do",
+        "quote": "راضي عن راصك ",
         "author": "Ralph Waldo Emerson"
     },
 
     {
-        "quote": "Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.",
+        "quote": "كم نسبة جمالك",
         "author": "Sara Blakely"
     },
     {
-        "quote": "If you keep on doing what you've always done, you will keep getting what you've always gotten.",
+        "quote": "بيت من الشعر تبغيه",
         "author": "Unknown"
     },
     {
-        "quote": " For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. John 3:16",
+        "quote": " صفات ما فيه فيك تبغيها تعود فيك",
         "author": "Jesus Christ"
     },
     {
-        "quote": "The surest way to find your dream job is to create it.",
+        "quote": "كم مدينة موريتانية كطيت زرتها؟",
         "author": "Unknown"
 
+    },
+    {
+        "quote": "بلد تتمنى زيارته؟"
+        
     }
+    ,
+    {
+        "quote": "أسم شخص تبغيه لوجه الله؟"
+        
+    },
+    {
+        "quote": "كطيت نصعت من الحصه وعلاش؟"
+        
+    } ,
+    {
+        "quote": "أكثر حد يظحك في الجماعة؟"
+        
+    }, 
+    {
+        "quote": "روايات تبغيهم فشخصيتك؟"
+        
+    },
+    {
+        "quote": "حلم كطيت حلمت بيه في الركاد واتحقق في الواقع؟"
+        
+    },
+    {
+        "quote": "شنهي الانجازات لي تفتخر بيهم ؟"
+        
+    },
+    {
+        "quote": "كط تبضى فيك حد؟"
+        
+    },
+    {
+        "quote": "شنهي وجبتك المفضلة؟ ؟"
+        
+    },
+    {
+        "quote": "شنهي أجمل مدينة گطيت زرتها؟"
+        
+    },
+    {
+        "quote": "كولنا أغنية حافظها من الصغر؟"
+        
+    },
+    {
+        "quote": "تجربة مؤلمة كطيت خظت عليها؟"
+        
+    },
+    {
+        "quote": "شنهي الأشياء لي ما تگد تستغني عنهم فحياتك؟"
+        
+    },
 ]
 
 export default quotes;
