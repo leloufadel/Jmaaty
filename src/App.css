@@ -98,3 +98,24 @@ body {
   color: white; 
 }
 
+/* Mobile Styles */
+@media only screen and (max-width: 600px) {
+  .container {
+    margin: 20px;
+  }
+  .imag {
+    width: 150px;
+    height: 150px;
+  }
+  .flip-card {
+    width: 250px;
+    height: 250px;
+  }
+  .card-text {
+    font-size: 16px;
+    margin-top: 30px;
+  }
+  .button-container {
+    bottom: 10px;
+  }
+}
