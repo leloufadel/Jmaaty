@@ -101,8 +101,9 @@ body {
 
 /* Mobile Styles */
 @media only screen and (max-width: 600px) {
- html, body {
+  body {
   overflow-x: hidden;
+   width:100%;
  }
   
   .container {
